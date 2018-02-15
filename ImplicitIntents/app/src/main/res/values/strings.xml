@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Implicit Intents</string>
+    <string name="edittext_uri">http://rainymood.com</string>
+    <string name="button_uri">Open Website</string>
+    <string name="edittext_loc">Taman Cikapundung</string>
+    <string name="button_loc">Open Location</string>
+    <string name="edittext_share">When the going gets weird, the weird turn pro.</string>
+    <string name="button_share">Share This Text</string>
+</resources>
